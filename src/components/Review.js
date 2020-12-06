@@ -43,7 +43,7 @@ class App extends React.Component {
 
 	render() {
 		return (
-			<div className="card mb-3" style={{ width: "30rem" }}>
+			<div className="card mb-3">
 				<div className="list-group-item">
 					<div className="d-flex w-100 justify-content-between">
 						<h5 className="mb-1">{this.props.title}</h5>

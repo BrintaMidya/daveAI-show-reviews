@@ -90,10 +90,10 @@ class SearchFilter extends React.Component {
 					</li>
 				</nav>
 				<nav className="nav nav justify-content-center mt-3">
-					<li className="nav-item mr-2 ml-2">
+					<li className="nav-item mr-2 ml-2 mt-2">
 						<h5>Sort By</h5>
 					</li>
-					<li className="nav-item mr-2 ml-2">
+					<li className="nav-item mr-2 ml-2 mt-2">
 						<button
 							onClick={this.onClickRating}
 							type="button"
@@ -106,7 +106,7 @@ class SearchFilter extends React.Component {
 							Rating
 						</button>
 					</li>
-					<li className="nav-item mr-2 ml-2">
+					<li className="nav-item mr-2 ml-2 mt-2">
 						<button
 							onClick={this.onClickConnection}
 							type="button"
@@ -119,7 +119,7 @@ class SearchFilter extends React.Component {
 							Connection
 						</button>
 					</li>
-					<li className="nav-item mr-2 ml-2">
+					<li className="nav-item mr-2 ml-2 mt-2">
 						<button
 							onClick={this.onClickUsefulness}
 							type="button"
