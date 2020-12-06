@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/daveAI-show-reviews/static/js/main.d4300aa3.chunk.js",
+    "main.js.map": "/daveAI-show-reviews/static/js/main.d4300aa3.chunk.js.map",
+    "runtime-main.js": "/daveAI-show-reviews/static/js/runtime-main.8a713a48.js",
+    "runtime-main.js.map": "/daveAI-show-reviews/static/js/runtime-main.8a713a48.js.map",
+    "static/js/2.10d01f27.chunk.js": "/daveAI-show-reviews/static/js/2.10d01f27.chunk.js",
+    "static/js/2.10d01f27.chunk.js.map": "/daveAI-show-reviews/static/js/2.10d01f27.chunk.js.map",
+    "index.html": "/daveAI-show-reviews/index.html",
+    "static/js/2.10d01f27.chunk.js.LICENSE.txt": "/daveAI-show-reviews/static/js/2.10d01f27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a713a48.js",
+    "static/js/2.10d01f27.chunk.js",
+    "static/js/main.d4300aa3.chunk.js"
+  ]
+}
